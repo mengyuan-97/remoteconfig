@@ -10,4 +10,4 @@ spring:
 mybatis:
   mapper-locations: classpath:mapping/*xml
   type-aliases-package: com.meng.config_ssm.pojo
-myname: 19970521
+myname: 88888888888888
