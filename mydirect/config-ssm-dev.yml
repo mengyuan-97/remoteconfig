@@ -4,8 +4,8 @@ server:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql:///guns?characterEncoding=utf8&serverTimezone=UTC
-    username:
-    password:
+    username: wanger
+    password: 19970521
 mybatis:
   mapper-locations: classpath:mapping/*xml
   type-aliases-package: com.meng.config_ssm.pojo
